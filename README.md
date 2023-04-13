@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jenit Kothari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India.Pursuing Computer Engineering from Dwarkadas J. Sanghvi College of Engineering .Currently in Second Year .An enthusiast learner and hardworker aiming to achieve excellence at computer engineering. </h3>
 
 - 🌱 I’m currently learning **python**
 
