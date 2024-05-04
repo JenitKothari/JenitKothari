@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 💬 Ask me about **c,java,html,css,python**
+- 💬 Ask me about **c,java,html,css,javascript,python**
 
 - 📫 How to reach me **jenit312003@gmail.com**
 
